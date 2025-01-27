@@ -18,7 +18,7 @@ with open(os.path.join(here, "README.md"), encoding="utf-8") as fh:
 
 setup(
     name="bangla-ipa",
-    version="0.1",
+    version="1.0.2",
     author="Biplab Kumar Sarkar, Afrar Jahin, Asif Shusmit",
     author_email="bip.sec22@gmail.com",
     description="A Python module for generating Bangla IPA transliterations.",
@@ -77,9 +77,9 @@ setup(
     ],
     include_package_data=True,
     package_data={
-        'bangla-ipa': [
-            'data/ipa_vocab_data.csv',
-            'model/ipa_model.pth',
+        'bangla_ipa': [
+            'data/*.csv',
+            'model/*.pth',
         ],
     },
     keywords=[

@@ -9,6 +9,11 @@ You can install the BanglaToIPA package using pip:
 pip install bangla-ipa
 ```
 
+
+```url
+URL: https://pypi.org/project/bangla-ipa/
+```
+
 ## File Structure
 ```sh
 bangla_ipa/
@@ -19,6 +24,7 @@ bangla_ipa/
 │   ├── __init__.py
 │   ├── ipa_model.pth
 ├── data/
+│   ├── __init__.py
 │   │   ├── ipa_vocab_data.csv
 ├── script/
 │   │   ├── __init__.py

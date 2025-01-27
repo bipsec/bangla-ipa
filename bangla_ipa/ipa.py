@@ -213,8 +213,7 @@ class BanglaIPATranslator:
 #
 # model_path = "../ipa_model.pth"
 
-translator = BanglaIPATranslator()
-
-# Translate a Bangla word to IPA
-translated_ipa = translator.translate("হাসপাতালের")
-
+# translator = BanglaIPATranslator()
+#
+# # Translate a Bangla word to IPA
+# translated_ipa = translator.translate("হাসপাতালের")
