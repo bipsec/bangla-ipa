@@ -11,7 +11,7 @@ pip install bangla-ipa
 
 ## File Structure
 ```sh
-IPA/
+bangla_ipa/
 ├── bangla_ipa/
 │   ├── __init__.py
 │   ├── ipa.py
