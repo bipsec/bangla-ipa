@@ -10,8 +10,8 @@ pip install bangla-ipa
 ```
 
 
-```url
-URL: https://pypi.org/project/bangla-ipa/
+```url 
+https://pypi.org/project/bangla-ipa/
 ```
 
 ## File Structure
